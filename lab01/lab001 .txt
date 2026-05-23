@@ -1,0 +1,13 @@
+lab001
+1. Why use Kali Linux?
+kali is different from other operating systems like windows or ubantu which is mostly for office wokrs and  gaming and such. kali is build for hacking ,penatration testing and secuirty auditing thus the kali linux have all the  software nessaccery for a ethical hacker in build rather than installling everything one by one
+
+
+2. What is its main advantage?
+saves alot of time by coming pre-installed with over 600 secuirty tools like wireshark and nmap.
+
+
+3. The Most Useful Features & Tools
+
+Nmap & Wireshark:Essential tools for scanning networks and reading live network traffic.
+
